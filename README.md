@@ -1,11 +1,23 @@
 Letipe
 ======
 
-A letipe reader in Uyghur language. New letipes can be dowanloaded form the server. This app needs Internet access only when letipe database is updated.
-
-لەتىپە ئوقۇشقا ئىشلىتىلىدۇ. لەتىپىلەر داۋاملىق قوشۇلۇپ تۇرىدۇ. لەتىپىلەرنى توردىن يىڭىلاشقا بولىدۇ. لەتىپىلەر يىڭىلايدىغان ۋاقىتتىلا تورغا ئىھتىياجلىق بولىدۇ. باشقا ۋاقىتتا توردىن يىڭىلىۋالغان لەتىپىلەرنى خالىغانچە ئوقۇشقا، بەلگە سېلىپ قۇيۇشقا بولىدۇ.
+A letipe (aka [Nasreddin jokes](http://en.wikipedia.org/wiki/Nasreddin)) reader in Uyghur language. The server side program is based on Microsoft .NET. Letipes are saved on the server, this app pulls letipes from your url of choice as a JSON file.
 
 Download Link:
+---------
 
+[Download from Bilkan Bazar](http://bazar.bilkan.net/App.aspx?id=174)
 
-Bilkan Bazar: http://bazar.bilkan.net/App.aspx?id=174
+Screenshots
+---------
+![screenshot](screenshots/001.png)
+
+![screenshot](screenshots/002.png)
+
+How To Use
+---------
+Change the server address to your url of choice in values/strings.xml
+
+Download Link:
+----------
+[Download from Bilkan Bazar](http://bazar.bilkan.net/App.aspx?id=178)
