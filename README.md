@@ -16,3 +16,7 @@ Change the server address to your url of choice in values/strings.xml
 Download Link:
 ----------
 [Download from Bilkan Bazar](http://bazar.bilkan.net/App.aspx?id=175)
+
+Similar Projects
+---------
+* [Humor](https://github.com/Bilkan/Humor)
